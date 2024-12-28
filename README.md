@@ -70,7 +70,7 @@ With simple stress-reduction exercises, you can increase your blood flow, raisin
 ## Circuit Diagram
 
 Below is the circuit diagram for the Stress Monitor project:
-
+Resistor and NTC thermistor both are 10k ohm.
 ![Circuit Diagram](Circuit_Diagram.png)
 
 ---
