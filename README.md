@@ -10,6 +10,15 @@ The Stress Monitor is a great tool for:
 - Seeing your stress response and training yourself to relax.
 - Measuring relaxation effectiveness with quantitative data.
 
+
+## Demo Video
+
+Watch the demo video to see how the Stress Monitor works:
+
+[![Demo Video](https://img.youtube.com/vi/toidenUyGGE/0.jpg)](https://youtu.be/toidenUyGGE)
+
+Click the image or [this link](https://youtu.be/toidenUyGGE) to view the video.
+
 ### Key Features:
 
 - **Temperature Range:** Measures temperature from 58°F to 150°F (approximately 14°C to 65°C).
