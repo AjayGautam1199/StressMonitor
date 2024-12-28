@@ -67,7 +67,13 @@ With simple stress-reduction exercises, you can increase your blood flow, raisin
    - Learn to increase your hand temperature during stressful situations.
 
 ---
+## Circuit Diagram
 
+Below is the circuit diagram for the Stress Monitor project:
+
+![Circuit Diagram](Circuit_Diagram.png)
+
+---
 ## Future Features
 
 This project is actively being developed, and more features will be added to enhance functionality and user experience. Stay tuned!
